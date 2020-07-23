@@ -1,0 +1,1 @@
+# django-admin-json-field-widget
